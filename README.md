@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Zimbredu/Zimbredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello my name is Eduardo Zimbre ✋🏿
+[![contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zimbredu@alunos.fho.edu.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+
+
+![Zimbredu GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimbredu&show_icons=true&theme=radical)
+
+># Technologies that I'm counting on in college.
+<div style="display: inline_block"><br/>
+<img align="center" alt="linguragem de programção C" scr"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"width="40" height"40" />
+<img align="center" alt="HTML5" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height"40" />
+<img align="center" alt="CSS3" <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height"40" />
+<img align="center" alt="Ubuntu" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"" width="40" height"40" />
+<img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" />
+
+
+
+
+</div>
+
