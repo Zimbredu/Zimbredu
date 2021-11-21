@@ -1,4 +1,4 @@
-##### Page in development⚠️.
+##### ⚠️Page in development..
 ## Hello my name is Eduardo Zimbre ✋🏿
 ###### www.linkedin.com/in/eduardo-zimbre-java-junior
 
