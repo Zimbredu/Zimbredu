@@ -1,8 +1,6 @@
 ##### Page in development⚠️.
-### Hi there 👋
-
 ## Hello my name is Eduardo Zimbre ✋🏿
-[![contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zimbredu@alunos.fho.edu.br)
+###### www.linkedin.com/in/eduardo-zimbre-java-junior
 
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -22,4 +20,3 @@
 
 
 </div>
-
