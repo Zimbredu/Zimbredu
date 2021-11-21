@@ -1,4 +1,4 @@
-##### ⚠️Page in development..
+##### ⚠️Page in development.
 ## Hello my name is Eduardo Zimbre ✋🏿
 ###### www.linkedin.com/in/eduardo-zimbre-java-junior
 
@@ -14,7 +14,12 @@
 <img align="center" alt="HTML5" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height"40" />
 <img align="center" alt="CSS3" <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height"40" />
 <img align="center" alt="Ubuntu" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"" width="40" height"40" />
-<img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" />
+<img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" /><br/>
+
+
+
+
+
 
 
 
