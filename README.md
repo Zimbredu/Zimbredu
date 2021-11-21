@@ -17,6 +17,14 @@
 <img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" /><br/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+</div>
 
 
 
