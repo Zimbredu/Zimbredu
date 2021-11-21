@@ -1,4 +1,4 @@
-##### ⚠️Page in development.
+##### ⚠️README in development.
 ## Hello my name is Eduardo Zimbre ✋🏿
 ###### www.linkedin.com/in/eduardo-zimbre-java-junior
 
@@ -18,14 +18,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-</div>
-
 
 
 
