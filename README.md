@@ -8,7 +8,7 @@
 
 ![Zimbredu GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimbredu&show_icons=true&theme=radical)
 
-># Technologies that I am studying in college and others that I study for personal interest...
+>## Technologies that I am studying in college and others that I study for personal interest...
 <div style="display: inline_block"><br/>
 <img align="center" alt="linguragem de programção C" scr"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"width="40" height"40" />
 <img align="center" alt="HTML5" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height"40" />
