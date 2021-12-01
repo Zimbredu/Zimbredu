@@ -1,6 +1,6 @@
 ##### ⚠️README in development.
 ## Hello my name is Eduardo Zimbre ✋🏿
-[![linkedin](https://www.linkedin.com/in/eduardo-zimbre-java-junior)]()
+[![linkedin](www.linkedin.com/in/eduardo-zimbre-java-junior)]()
 
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
