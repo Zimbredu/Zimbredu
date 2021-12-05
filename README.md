@@ -2,7 +2,7 @@
 ## Hello my name is Eduardo Zimbre ✋🏿
 <!--[linkedin](www.linkedin.com/in/eduardo-zimbre-java-junior)-->
 
-<a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior" target="_blank">
+<a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior/" target="_blank">
 linkedin</a>
 
 
