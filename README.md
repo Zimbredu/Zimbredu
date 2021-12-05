@@ -3,7 +3,8 @@
 <!--[linkedin](www.linkedin.com/in/eduardo-zimbre-java-junior)-->
 
 <a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior/" target="_blank">
-linkedin</a>
+Linkedin</a>
+
 
 
 <!--[linkedin](https://www.linkedin.com/in/eduardo-zimbre-java-junior)-->
