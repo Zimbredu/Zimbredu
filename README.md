@@ -1,17 +1,17 @@
 ##### ⚠️README in development. <a href="https://www.imagensanimadas.com/cat-star-wars-e-guerra-nas-estrelas-636.htm"><img src="https://www.imagensanimadas.com/data/media/636/star-wars-e-guerra-nas-estrelas-imagem-animada-0103.gif" border="0" alt="star-wars-e-guerra-nas-estrelas-imagem-animada-0103" /></a>
 ## Hello my name is Eduardo Zimbre ✋🏿
 
-![2d12](https://user-images.githubusercontent.com/66042254/147387707-c2ce0130-22b6-4b71-8047-4e6a689fe57b.gif)
 
 
 <a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior/" target="_blank">
 Linkedin</a>
 
 
-
-
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
+
+![2d12](https://user-images.githubusercontent.com/66042254/147387707-c2ce0130-22b6-4b71-8047-4e6a689fe57b.gif)
+
 
 
 ![Zimbredu GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimbredu&show_icons=true&theme=radical)
