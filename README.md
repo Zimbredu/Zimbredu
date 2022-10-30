@@ -7,8 +7,8 @@
 Linkedin</a>
 
 
-[![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
+\*[![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>*\
 
 ![2d12](https://user-images.githubusercontent.com/66042254/147387707-c2ce0130-22b6-4b71-8047-4e6a689fe57b.gif)
 
