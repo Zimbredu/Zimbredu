@@ -1,4 +1,4 @@
-##### ⚠️README in development. <a href="https://www.imagensanimadas.com/cat-star-wars-e-guerra-nas-estrelas-636.htm"><img src="https://www.imagensanimadas.com/data/media/636/star-wars-e-guerra-nas-estrelas-imagem-animada-0103.gif" border="0" alt="star-wars-e-guerra-nas-estrelas-imagem-animada-0103" /></a>
+##### ⚠️README in development. 
 ## Hello my name is Eduardo Zimbre ✋🏿
 
 
