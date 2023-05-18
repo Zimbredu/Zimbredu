@@ -21,14 +21,14 @@ Linkedin</a>
 
 
 
-![Zimbredu GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimbredu&show_icons=true&theme=radical)
+
 
 >## Technologies that I am studying in college and others that I study for personal interest...
 
   
 ##
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
 
 </div>
 
