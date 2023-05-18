@@ -1,12 +1,6 @@
-
-##### ⚠️README in development. 
 ## Hello my name is Eduardo Zimbre ✋🏿
-
-
-
 <a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior/" target="_blank">
 Linkedin</a>
-
 
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
@@ -16,7 +10,6 @@ Linkedin</a>
 <img align="center" alt="CSS3" <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height"40" />
 <img align="center" alt="Ubuntu" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"" width="40" height"40" />
 <img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" /><br/>
-
 
 >## Technologies that I am studying in college and others that I study for personal interest...
 
