@@ -29,4 +29,4 @@ Linkedin</a>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-https://github-readme-stats.vercel.app/api?username=[]
+https://github-readme-stats.vercel.app/api?username=[Eduardo Antonio Zimbre]
