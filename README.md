@@ -25,7 +25,20 @@ Linkedin</a>
 
 >## Technologies that I am studying in college and others that I study for personal interest...
 
-  
+  {
+  "functions": {
+    "api/*.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
+    }
+  ]
+}
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
