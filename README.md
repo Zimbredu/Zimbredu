@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=[Zimbredu]
+
 ##### ⚠️README in development. 
 ## Hello my name is Eduardo Zimbre ✋🏿
 
@@ -28,10 +28,5 @@ Linkedin</a>
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbredu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 </div>
+https://github-readme-stats.vercel.app/api?username=[]
