@@ -1,3 +1,4 @@
+https://github-readme-stats.vercel.app/api?username=[Zimbredu]
 ##### ⚠️README in development. 
 ## Hello my name is Eduardo Zimbre ✋🏿
 
