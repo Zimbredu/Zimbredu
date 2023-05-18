@@ -18,17 +18,7 @@ Linkedin</a>
 <img align="center" alt="Java" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"" width="40" height"40" /><br/>
 
 
-
-
-
-
-
 >## Technologies that I am studying in college and others that I study for personal interest...
-
-  
-##
- 
-
 
 </div>
 
