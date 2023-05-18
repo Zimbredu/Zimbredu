@@ -1,4 +1,4 @@
-## Hello my name is Eduardo Zimbre ✋🏿
+## Hello my name is Eduardo Zimbre 
 <a href="https://www.linkedin.com/in/eduardo-zimbre-java-junior/" target="_blank">
 Linkedin</a>
 
